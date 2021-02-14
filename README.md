@@ -1,7 +1,7 @@
 # Easy disk speed
 En easy bash script to measure the read speed of a HDD in 6 different locations
 
-As HDD-s tend to be much faster in the bigining that in the end, this simple utility measures the speed at every 20% of the disk.
+As HDD-s tend to be much faster in the begining that in the end, this simple utility measures the speed at every 20% of the disk.
 
 It uses standard linux tools, so you can run it on a lot of machines, e.g. on your NAS.
 
